@@ -1,2 +1,19 @@
-# Binary-Search-Tree-Projesi
-Kodluyoruz Eğitimi kapsamında Binary Search Tree Projesi için açtığım repo
+# Soru
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+---
+
+# Cevap
+
+root 5 olsun dersek.
+
+                        5
+                       /  \ 
+                      1     7
+                     / \   /  \
+                    0   3  6   8
+                       / \      \
+                      2   4      9 
